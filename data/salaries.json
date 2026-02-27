@@ -1,0 +1,31 @@
+[
+    {
+        "SalaryID": 1,
+        "EmployeeID": 1,
+        "BasicSalary": 50000,
+        "Bonus": 5000,
+        "Allowances": 3000,
+        "id": "6836f55f-5bb8-4a77-abbc-efb2064527a2"
+    },
+    {
+        "username": "bijay",
+        "password": "1234",
+        "id": "c4c793d8-f90b-479a-8bd5-16cb61fd0e9c"
+    },
+    {
+        "SalaryID": 1,
+        "EmployeeID": 2,
+        "BasicSalary": 60000,
+        "Bonus": 8000,
+        "Allowances": 3000,
+        "id": "f07b88eb-493b-4195-8613-cca4ca64ce99"
+    },
+    {
+        "SalaryID": 1,
+        "EmployeeID": 1,
+        "BasicSalary": 50000,
+        "Bonus": 5000,
+        "Allowances": 3000,
+        "id": "a9ec9939-9971-4c88-8eca-41b66caabbe8"
+    }
+]

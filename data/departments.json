@@ -1,0 +1,19 @@
+[
+    {
+        "DepartmentID": 1,
+        "DepartmentName": "IT",
+        "Location": "Bangalore",
+        "id": "5d57286e-7f1d-49f2-82e1-c29715abe15b"
+    },
+    {
+        "username": "bijay",
+        "password": "1234",
+        "id": "a24556de-4a7b-48ed-b16b-14f30fa26991"
+    },
+    {
+        "DepartmentID": 1,
+        "DepartmentName": "IT",
+        "Location": "Bangalore",
+        "id": "be6030c9-7e40-4996-9c75-8a02055287b8"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "EmployeeID": 1,
+        "FirstName": "Bijay",
+        "LastName": "Thomas",
+        "Gender": "Male",
+        "DateOfBirth": "2005-01-17",
+        "id": "fe1ca25d-620d-4b5d-8c4f-1d271ece868d"
+    },
+    {
+        "EmployeeID": 2,
+        "FirstName": "Amal",
+        "LastName": "Joseph",
+        "Gender": "Male",
+        "DateOfBirth": "2002-05-12",
+        "id": "75a85188-5a83-49f6-b4a8-44a3ed712b38"
+    },
+    {
+        "EmployeeID": 1,
+        "FirstName": "Athul",
+        "LastName": "P Shajil",
+        "Gender": "Male",
+        "DateOfBirth": "2004-11-13",
+        "id": "fec6f562-cd9b-4141-8952-76b5addab3b3"
+    }
+]
